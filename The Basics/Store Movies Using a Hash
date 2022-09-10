@@ -1,0 +1,11 @@
+movies = { :A => 2000,
+           :B => 2002,
+           :C => 2004,
+           :D => 2006,
+           :E => 2008}
+
+puts movies[:A]
+puts movies[:B]
+puts movies[:C]
+puts movies[:D]
+puts movies{:E]
