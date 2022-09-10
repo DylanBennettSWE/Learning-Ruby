@@ -1,0 +1,8 @@
+choice_one = 3.0
+choice_two = 6.0
+choice_three = 9.0
+#multiply number by itself to find the square.
+
+puts choice_one * choice_one
+puts choice_two * choice_two
+puts choice_three * choice_three
