@@ -1,0 +1,9 @@
+puts "Hello! I don't think we've met before! What is your name?"
+
+name = gets.chomp
+
+puts 'Welcome ' + name + '! My name is Dylan and it is a pleasure to meet you! Enjoy your time at Launch School.'
+
+num = 10
+
+num.times { |word| puts " " + name}
