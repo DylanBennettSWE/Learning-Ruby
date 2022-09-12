@@ -1,3 +1,5 @@
+puts "Hello! I don't think we've met before! What is your name?"
+
 name = gets.chomp
 
-puts 'Hello, my name is Dylan! Nice to meet you ' + name + '.'
+puts 'Welcome ' + name + '! My name is Dylan and it is a pleasure to meet you! Enjoy your time at Launch School.'
