@@ -1,0 +1,9 @@
+puts 'How old are you?'
+age = gets.chomp.to_i
+count = 0
+
+[1,2,3,4].each do |number|
+    age += 10
+    count += 10
+    puts "In " + count.to_s + " years you will be: " + age.to_s
+end
