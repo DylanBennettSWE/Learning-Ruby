@@ -1,0 +1,1 @@
+The first solution will incrementally increase x by one, three times. The second solution will return an error as the variable x was created inside the scope and can't be called from outside the scope boundaries.
