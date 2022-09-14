@@ -1,0 +1,8 @@
+The method calculate_product must hold two arguments.
+Could be implemented like this (mine shows three):
+
+def calculate_product(prod1, prod2)
+  prod1 * prod2
+end
+
+puts calculate_product(2, 2)
