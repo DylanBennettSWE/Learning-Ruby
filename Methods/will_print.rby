@@ -1,0 +1,11 @@
+Nothing is printed. 
+
+
+
+Solution:
+
+def scream(words)
+  puts words = words + "!!!!"
+end
+
+scream("Yippeee")
