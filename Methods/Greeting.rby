@@ -1,0 +1,5 @@
+def greeting(name)
+  puts "Welcome home " + name + ", we missed you!"
+end
+
+greeting("")
