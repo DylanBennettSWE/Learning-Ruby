@@ -1,0 +1,9 @@
+def problem(sent)
+  if sent.length > 10
+    sent.upcase
+  else
+    sent
+  end
+end
+
+puts problem('hello world')
