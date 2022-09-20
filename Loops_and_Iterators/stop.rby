@@ -1,0 +1,7 @@
+x = ""
+
+while x != "STOP" do
+  puts "What is your name?"
+  x = gets.chomp
+  puts "Wanna try that again?"
+end
