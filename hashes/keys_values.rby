@@ -1,0 +1,11 @@
+launch = {grade: 'A', age: '8', happy: 'yes'}
+
+#Prints keys
+puts "Keys:"
+launch.each{|k,v| puts k}
+
+puts "---"
+
+#Prints values
+puts "Values:"
+launch.each{|k,v| puts v}
