@@ -1,0 +1,9 @@
+x = "hi there"
+my_hash = {x: "some value"}
+my_hash2 = {x => "some value"}
+
+puts my_hash
+puts my_hash2
+
+#my_hash uses the symbol x as a key.
+#my_hash2 uses the string attached to the variable x as a key.
